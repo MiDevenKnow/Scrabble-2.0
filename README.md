@@ -1,5 +1,5 @@
 # Scrabble-2.0
-The aim of the game are the same as those of https://github.com/MiDevenKnow/Scrabble
+The aim of the game is the same as that of https://github.com/MiDevenKnow/Scrabble
 
 **Please read the original scrabble description**
 
