@@ -14,4 +14,4 @@ If the space to the right up diagonal is empty, the string "b" is formed.
 
 If the space to the left down diagonal is empty,the string "b" is formed.
 
-All Three strings are returned and checked to be valid.
+**All Three strings are returned and checked to be valid.**
