@@ -74,7 +74,6 @@ int main(){
 		printf("%s\n",NLINE);
 		printf("%s\n",HLINE);
 		for (j = 0; j < NUM_RANGE; j++){  
-			printf("%s\n",VLINE);
 			printf("%d ",j+1);
 			for (k = 0; k < NUM_RANGE; k++){
 				if(strcmp(grid[k][j],"   ")==0){
@@ -85,7 +84,6 @@ int main(){
 			}
 			printf("%s","|");
 			printf("\n");
-			printf("%s\n",VLINE);
 			printf("%s\n",HLINE);
 		}
 	}
